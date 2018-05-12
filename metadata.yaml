@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1034
     wikipedia: http://en.wikipedia.org/wiki/Hamlin_Garland
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35805#Rose-of-Dutcher-s-Coolly
 gutenberg_issued: '2011-04-08'
 gutenberg_type: Text
 identifiers:
